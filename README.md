@@ -7,7 +7,7 @@
 # Re: Analysis of Congressional Election Results
 
 # Overview
-## Per your request, we developed code that tabulated Congressional election voting results from raw data in .csv format (https://github.com/Thomson1923/Election_Analysis/blob/main/Resources/election_results.csv) and created a simple text output to summarize the outcome of the election (https://github.com/Thomson1923/Election_Analysis/blob/main/Analysis/election_analysis.txt). As discussed, the code developed for this election (** INSERT LINK **) can be easily modified to tabulate votes and produce output for other elections.
+## Per your request, we developed code that tabulated Congressional election voting results from raw data in .csv format (https://github.com/Thomson1923/Election_Analysis/blob/main/Resources/election_results.csv) and created a simple text output to summarize the outcome of the election (https://github.com/Thomson1923/Election_Analysis/blob/main/Analysis/election_analysis.txt). As discussed, the code developed for this election (https://github.com/Thomson1923/Election_Analysis/blob/main/PyPoll_Challenge.py) can be easily modified to tabulate votes and produce output for other elections.
 
 # Election Audit Results
 ## Key results from the Congressional election are as follows:
