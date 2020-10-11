@@ -11,7 +11,7 @@
 
 # Election Audit Results
 ## Key results from the Congressional election are as follows:
- ## - A total of 369,711 votes were cast in this district
+## - A total of 369,711 votes were cast in this district
  ## - The breakdown of votes by county was:
    ### - Arapahoe = 24,801 (6.7% of total)
    ### - Denver = 306,055 (82.8% of total)
