@@ -11,16 +11,16 @@
 
 # Election Audit Results
 ## Key results from the Congressional election are as follows:
-## - A total of 369,711 votes were cast in this district
-## - The breakdown of votes by county was:
-### - Arapahoe = 24,801 (6.7% of total)
-### - Denver = 306,055 (82.8% of total)
-### - Jefferson = 38,855 (10.5% of total)
-## - As expected, the greatest number of votes were placed in Denver county
-## - The breakdown of votes by candidate was:
-### - Charles Casper Stockham =  85,213 (23.0% of total)
-### - Diane DeGette = 272,892 (73.8% of total)
-### - Raymon Anthony Doane = 11,606 (3.1% of total)
+ ## - A total of 369,711 votes were cast in this district
+ ## - The breakdown of votes by county was:
+   ### - Arapahoe = 24,801 (6.7% of total)
+   ### - Denver = 306,055 (82.8% of total)
+   ### - Jefferson = 38,855 (10.5% of total)
+ ## - As expected, the greatest number of votes were placed in Denver county
+ ## - The breakdown of votes by candidate was:
+   ### - Charles Casper Stockham =  85,213 (23.0% of total)
+   ### - Diane DeGette = 272,892 (73.8% of total)
+   ### - Raymon Anthony Doane = 11,606 (3.1% of total)
 ## - Our analysis shows that Diane DeGette won the election with 272,892 votes (73.8% of total)
 
 # Election Audit Summary
